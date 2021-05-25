@@ -1,0 +1,50 @@
+[
+    {
+        "name":"Margherita",
+        "image":"pizza.png",
+        "price":"200",
+        "size":"small"
+    },
+    {
+        "name":"Marinara",
+        "image":"pizza.png",
+        "price":"300",
+        "size":"small"
+    },
+    {
+        "name":"Quattro Stagioni",
+        "image":"pizza.png",
+        "price":"399",
+        "size":"small"
+    },
+    {
+        "name":"Capricciosa",
+        "image":"pizza.png",
+        "price":"850",
+        "size":"small"
+    },
+    {
+        "name":"Quattro Formaggi",
+        "image":"pizza.png",
+        "price":"440",
+        "size":"small"
+    },
+    {
+        "name":"Vegetariana",
+        "image":"pizza.png",
+        "price":"700",
+        "size":"small"
+    },
+    {
+        "name":"Diavola",
+        "image":"pizza.png",
+        "price":"500",
+        "size":"small"
+    },
+    {
+        "name":"The Detroiter",
+        "image":"pizza.png",
+        "price":"800",
+        "size":"small"
+    }
+]
